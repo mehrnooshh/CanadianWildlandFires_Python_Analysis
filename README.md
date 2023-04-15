@@ -1,10 +1,10 @@
 # CanadianWildlandFires_Python_Analysis
 ![image](https:)
 
-Sourcing an open-source dataset in order to meet the different criteria. We selected Canadian Wildland Fires data which is accesible through CWF Information System Datamart, however, the contents of this project have been fabricated for the purpose of learning. 
+Sourcing an open-source dataset in order to meet the different criteria. We selected Canadian Wildland Fires data which is accessible through CWF Information System Datamart, however, the contents of this project have been fabricated for the purpose of learning. 
 
 We will be conducting the following analyses via Python:
-- Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots and categorical plots)
+- Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots, and categorical plots)
 - Geospatial analysis using a shapefile
 - Regression analysis
 - Cluster analysis
@@ -23,13 +23,16 @@ Wildland fires present a challenge for forest management because they have the p
 - Fire suppression costs over the last decade in Canada have ranged from about $800 million to $1.5 billion a year [(from)](https://natural-resources.canada.ca/our-natural-resources/forests/wildland-fires-insects-disturbances/forest-fires/13143).
 
 # Data:
-- Citation: [Canadian Wildland Fires] (https://cwfis.cfs.nrcan.gc.ca/datamart) , Last update: 12/31/2021
-- Available on [Kaggle] (https://www.kaggle.com/datasets/ulasozdemir/wildfires-in-canada-19502021)
+- Citation: [Canadian Wildland Fires](https://cwfis.cfs.nrcan.gc.ca/datamart) , Last update on 31 Dec 2021
+- Available on [Kaggle](https://www.kaggle.com/datasets/ulasozdemir/wildfires-in-canada-19502021)
 
 # Tools
-For this project the following Python libraries were used:
-+Folium 
+For this project, the following Python libraries were used:
 + Pandas- for data analysis
-+ Seaborn - for visualization
++ Seaborn- for visualization
 + Matplotlib - for visualization
-
++ Geopy- for calculating the distance of locations by latitude and longitude
++ Json- for importing and working with geoJson files
++ Folium- for analyzing the location and geospatial data and creating interactive maps
++ Sklearn- for using machine learning algorithms like classification, regression, and clustering
++ Statsmodels- for time series analysis
