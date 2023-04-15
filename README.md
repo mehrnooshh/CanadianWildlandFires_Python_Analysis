@@ -1,5 +1,5 @@
 # CanadianWildlandFires_Python_Analysis
-![image](https:)
+![image](https://user-images.githubusercontent.com/33376927/232176792-c3c46b3d-8b88-4af2-b37d-0b394ca45f21.png)
 
 Sourcing an open-source dataset in order to meet the different criteria. We selected Canadian Wildland Fires data which is accessible through CWF Information System Datamart, however, the contents of this project have been fabricated for the purpose of learning. 
 
@@ -30,9 +30,9 @@ Wildland fires present a challenge for forest management because they have the p
 For this project, the following Python libraries were used:
 + Pandas- for data analysis
 + Seaborn- for visualization
-+ Matplotlib - for visualization
++ Matplotlib- for visualization
 + Geopy- for calculating the distance of locations by latitude and longitude
-+ Json- for importing and working with geoJson files
++ JSON- for importing and working with geoJson files
 + Folium- for analyzing the location and geospatial data and creating interactive maps
 + Sklearn- for using machine learning algorithms like classification, regression, and clustering
 + Statsmodels- for time series analysis
