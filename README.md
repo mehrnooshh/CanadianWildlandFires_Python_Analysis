@@ -20,7 +20,7 @@ Wildland fires present a challenge for forest management because they have the p
 
 - Only 3% of all wildland fires that start each year in Canada grow to more than 200 hectares in area. However, these fires account for 97% of the total area burned across the country.
 
-- Fire suppression costs over the last decade in Canada have ranged from about $800 million to $1.5 billion a year [(from)](https://natural-resources.canada.ca/our-natural-resources/forests/wildland-fires-insects-disturbances/forest-fires/13143).
+- Fire suppression costs over the last decade in Canada have ranged from about $800 million to $1.5 billion a year [(Source)](https://natural-resources.canada.ca/our-natural-resources/forests/wildland-fires-insects-disturbances/forest-fires/13143).
 
 # Data:
 - Citation: [Canadian Wildland Fires](https://cwfis.cfs.nrcan.gc.ca/datamart) , Last update on 31 Dec 2021
